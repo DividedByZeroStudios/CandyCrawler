@@ -1,4 +1,4 @@
-package com.dividedbyzerostudios.candycrawler;
+package com.example.ruperthaff.realcandycrawler;
 
 import org.junit.Test;
 

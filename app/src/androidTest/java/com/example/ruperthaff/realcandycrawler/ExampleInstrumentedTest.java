@@ -1,4 +1,4 @@
-package com.dividedbyzerostudios.candycrawler;
+package com.example.ruperthaff.realcandycrawler;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.dividedbyzerostudios.candycrawler", appContext.getPackageName());
+        assertEquals("com.example.ruperthaff.realcandycrawler", appContext.getPackageName());
     }
 }

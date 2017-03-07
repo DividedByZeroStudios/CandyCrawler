@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.dividedbyzerostudios.candycrawler"
+        applicationId "com.example.ruperthaff.realcandycrawler"
         minSdkVersion 18
         targetSdkVersion 25
         versionCode 1
